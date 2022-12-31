@@ -1,4 +1,4 @@
-# getting-new-windows-width-height-from-user-and-creating-in-python-using-tkinter
+
 
 from tkinter import *
 root = Tk()
